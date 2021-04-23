@@ -2,7 +2,7 @@ package week1;
 import stanford.karel.*;
 
 public class KarelDefendsDemocracy extends SuperKarel {
-
+	// This code runs well
 	public void run() {
 		while (frontIsClear() ) {
 			move();
